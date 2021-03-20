@@ -3,7 +3,7 @@ gevent==1.0.2
 gevent-websocket==0.9.4
 greenlet==0.4.7
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 linecache2==1.0.0
 locustio==0.7.2
 MarkupSafe==0.23
